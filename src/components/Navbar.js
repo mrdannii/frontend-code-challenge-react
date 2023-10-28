@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-4">
             <a href="/" className="text-white font-bold text-xl">RandoStore</a>
             <a href="/" className="text-white">Home</a>
-            <a href="/" className="text-white">Sell Your Item</a>
+            <a href="/newitem" className="text-white">Create New Item</a>
           </div>
           <div className="flex items-center space-x-4">
             <div className="relative">
